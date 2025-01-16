@@ -1,0 +1,13 @@
+process\Process.class
+enums\Semaphore.class
+process\Writer.class
+enums\Situation.class
+enums\State.class
+scheduler\Scheduler.class
+funcoes\RandomNumber.class
+cpu\CPU.class
+com\poo2\leitoresescritores\Main.class
+scheduler\Scheduler$1.class
+process\Reader.class
+buffer\Buffer.class
+funcoes\ProcessFactory.class
